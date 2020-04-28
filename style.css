@@ -101,7 +101,7 @@ h2::after {
 }
 .carousel .overview b {
     font-size: 16px;
-    
+
     color: #000000;
 }
 .carousel .carousel-control {
@@ -145,4 +145,4 @@ h2::after {
 .star-rating i {
     font-size: 14px;
     color: #ffdc12;
-}
+} 
